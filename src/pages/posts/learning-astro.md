@@ -7,6 +7,6 @@ description: 'This is the post of my new Astro blog.'
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "learning in public", "successes", "one", "come"]
 ---
 I learned so much today! Astro allows me to write in Markdown, but also use variables from the frontmatter. I can even access those values in an Astro layout component.
